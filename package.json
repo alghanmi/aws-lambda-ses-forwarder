@@ -5,5 +5,10 @@
   "main": "index.js",
   "dependencies": {
     "aws-lambda-ses-forwarder": "^5.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alghanmi/aws-lambda-ses-forwarder.git"
   }
 }
